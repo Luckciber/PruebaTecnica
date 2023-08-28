@@ -2,7 +2,7 @@
 Prueba técnica para el puesto de desarrollador FrontEnd
 
 ---------------------------------------------------------------------------------------------------
-author   *luckciber
+author  @luckciber
 name    Milton Soto Castillo
 email   miltonsotoc@gmai.com
 date    28-09-2023
