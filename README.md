@@ -20,11 +20,11 @@ Indicaciones de ejecucion
 
 1. abrir una terminal con permisos de administrador
 2. debe estar posicionado en la carpeta del proyecto apuntando a la ruta donde fue descargado
-    cd {ruta_de_descarga]/app-articulos (ruta sin llaves)
+    * cd {ruta_de_descarga]/app-articulos (ruta sin llaves)
 3. en la terminal ejecutar el comando de instalacion de dependencias
-    npm install
+    * npm install
 4. una vez instalado utilizar el comando que permite levantar el servidor de manera local
-    npm run dev
+    * npm run dev
 
 
 --------------------------------------------------------------------------------------------------
