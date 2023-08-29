@@ -15,13 +15,15 @@ a continuacion se indicaran los frameworks utilizados en el proyecto
 
 Indicaciones de ejecucion
 
-1. abrir una terminal con permisos de administrador
-2. debe estar posicionado en la carpeta del proyecto apuntando a la ruta donde fue descargado
-    cd {ruta_de_descarga]/app-articulos (ruta sin llaves)
-3. en la terminal ejecutar el comando de instalacion de dependencias
-    npm install
-4. una vez instalado utilizar el comando que permite levantar el servidor de manera local
-    npm run dev
+1. debe tener intalado en su computador node.js
+    * https://nodejs.org/es*
+2. abrir una terminal con permisos de administrador
+3. debe estar posicionado en la carpeta del proyecto apuntando a la ruta donde fue descargado
+    * cd {ruta_de_descarga]/app-articulos (ruta sin llaves)
+4. en la terminal ejecutar el comando de instalacion de dependencias
+    * npm install
+5. una vez instalado utilizar el comando que permite levantar el servidor de manera local
+    * npm run dev
 
 
 --------------------------------------------------------------------------------------------------
